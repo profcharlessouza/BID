@@ -16,7 +16,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Charles Souza",
+    "title": "BID",
     "section": "",
     "text": "Este relatório tem como objetivo apresentar informações e dados referentes à evolução do projeto sobre o setor aeroespacial. As principais fontes de dados são provenientes do repositório UN Comtrade. Para a obtenção, o tratamento e a visualização das informações do setor, foi utilizado o software R, com destaque para o pacote Comtradr."
   },
