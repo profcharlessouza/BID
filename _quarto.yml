@@ -8,7 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+     # - projects.qmd
+      - categorias.qmd
+      - drive.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/oicharles
@@ -20,7 +22,7 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: nome
     toc: true
 lang: "pt"
 editor: source

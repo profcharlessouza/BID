@@ -16,8 +16,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "Charles Souza",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Este relatório tem como objetivo apresentar informações e dados referentes à evolução do projeto sobre o setor aeroespacial. As principais fontes de dados são provenientes do repositório UN Comtrade. Para a obtenção, o tratamento e a visualização das informações do setor, foi utilizado o software R, com destaque para o pacote Comtradr."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "BID",
+    "section": "",
+    "text": "Tabela\n\nSample grid table.\n\n\n\n\n\n\n\nFruit\nPrice\nAdvantages\n\n\n\n\nBananas\n$1.34\n\nbuilt-in wrapper\nbright color\n\n\n\nOranges\n$2.10\n\ncures scurvy\ntasty"
+  },
+  {
+    "objectID": "categorias.html",
+    "href": "categorias.html",
+    "title": "Produtos",
+    "section": "",
+    "text": "Product category\n\n\nVC stage\n\n\nHS Product category\n\n\nHS code\n\n\nDescription\n\n\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nBalloons\n\n\n880100\n\n\nBalloons and dirigibles; gliders, hang gliders and other non-powered aircraft.\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nHelicopters\n\n\n880211\n\n\nHelicopters; of an unladen weight not exceeding 2000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nHelicopters\n\n\n880212\n\n\nHelicopters; of an unladen weight exceeding 2000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nAirplanes\n\n\n880220\n\n\nAeroplanes & other aircraft, of an unladen weight not &gt;2000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nAirplanes\n\n\n880230\n\n\nAeroplanes & other aircraft, of an unladen weight &gt;2000 kg but not &gt;15000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nAirplanes\n\n\n880240\n\n\nAeroplanes & other aircraft, of an unladen weight &gt;15000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nSpacecraft\n\n\n880260\n\n\nSpacecraft (incl. satellites) & suborbital & spacecraft launch vehicles\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nLanding gear\n\n\n880320\n\n\nUnder-carriages & parts thereof , of goods of 88.01/88.02\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nAircraft parts & assemblies (generic)\n\n\n880330\n\n\nParts of aeroplanes/helicopters, other than propellers, rotors, under-carriages & parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nPropellers & rotors\n\n\n880310\n\n\nPropellers & rotors & parts thereof , of goods of 88.01/88.02\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nOther parts\n\n\n880390\n\n\nParts of goods of 88.01/88.02, n.e.s. in 88.03\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n840890\n\n\nInternal combustion piston engines (diesel/semi-diesel engines) (excl. of 8408.10 & 8408.20)\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841111\n\n\nTurbo-jets, of a thrust not &gt;25kN\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841112\n\n\nTurbo-jets, of a thrust &gt;25 kN\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841121\n\n\nTurbo-propellers, of a power not &gt;1,100kW\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841122\n\n\nTurbo-propellers, of a power &gt;1,100kW\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nOther engines (other on-board engines)\n\n\n840710\n\n\nSpark-ignition reciprocating/rotary internal combustion piston engines for aircraft\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nOther engines (other on-board engines)\n\n\n841210\n\n\nReaction engines other than turbo-jets\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nLaunching gear\n\n\n880510\n\n\nAircraft launching gear & parts thereof ; deck-arrestor/similar gear & parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nGround trainers\n\n\n880521\n\n\nGround flying trainers and parts thereof; air combat simulators and parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nGround trainers\n\n\n880529\n\n\nGround flying trainers and parts thereof; other than air combat simulators and parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nInterior\n\n\n940110\n\n\nSeats; of a kind used for aircraft\n\n\n\n\nPropulsion systems\n\n\nComponents\n\n\nMain engine\n\n\n841191\n\n\nTurbines; parts of turbo-jets and turbo-propellers\n\n\n\n\nPropulsion systems\n\n\nComponents\n\n\nOther engines\n\n\n840910\n\n\nEngines; parts of aircraft engines (spark-ignition reciprocating or rotary internal combustion piston engines)\n\n\n\n\nOther components\n\n\nComponents\n\n\nLanding gear\n\n\n401130\n\n\nNew pneumatic tyres, of rubber, of a kind used on aircraft\n\n\n\n\nOther components\n\n\nComponents\n\n\nLanding gear\n\n\n401213\n\n\nRetreaded pneumatic tyres of rubber, of a kind used on aircraft\n\n\n\n\nOther components\n\n\nComponents\n\n\nElectronic instruments\n\n\n901420\n\n\nInstruments & appliances for aeronautical/space navigation (excl. compasses)"
+  },
+  {
+    "objectID": "drive.html",
+    "href": "drive.html",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Links para o repositório"
   }
 ]
