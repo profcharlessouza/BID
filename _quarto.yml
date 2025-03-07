@@ -11,6 +11,7 @@ website:
      # - projects.qmd
       - categorias.qmd
       - drive.qmd
+      - imagens.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/oicharles
@@ -21,9 +22,10 @@ website:
     left: "&copy; Copyright 2025, Charles Souza"
 
 format:
-  html:
+  html: 
     theme: nome
     toc: true
 lang: "pt"
 editor: source
-
+    
+ 

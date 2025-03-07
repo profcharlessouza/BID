@@ -2,8 +2,45 @@
 title: "Google Drive"
 ---
 
-# Links para o repositório
 
-<br>
 
-<br>
+Links para o repositório.
+
+# Pasta BID
+
+* <a href="https://drive.google.com/drive/folders/1HuwP5g7SQifTCrrgfhSzAjyBsuhrMyo2?usp=sharing" target="_blank">Pasta Principal</a> 
+
+# Geral 
+
+* <a href="https://docs.google.com/spreadsheets/d/1lcd5bTagQtL0uoUl-Ov18VdXMY9rnTOo/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Tabela de Produtos  </a> 
+<font size="2">    
+   * Produtos do Setor Aeroespacial, segundo o Sistema Harmonizdo </font>
+
+# Brasil
+
+### Comtrade
+
+* <a href="https://docs.google.com/spreadsheets/d/1Z3oO4z8VgDXv2iqfEpPtIzn8IodBi6oA/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" title="Title Text" target="_blank">Comtrade Brutos</a> 
+<font size="2">
+  * Dados de 2014-2024. Acrescentou-se a variável *VC stage*.</font>
+
+* <a href="https://docs.google.com/spreadsheets/d/1Ihm5RPGsaasACVcC43zMDcJaLxl88god/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank">Comtrade Invertidos</a> 
+<font size="2">   
+  * Dados de 2014-2024. Inverteu-se o direcionamento das transações, permutando *partner* por *report* e *Export* por *Import* - as exportações dos países elencados na rubrica *All* para o Brasil são, por correspondência, as importações deste, da mesma forma que as importações daqueles são, por analogia, as exportações do Brasil. </font>
+ 
+ * <a href="https://docs.google.com/spreadsheets/d/1p5qF6y0rmUZSlIMbz5sSL9wFLyESKIAi/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Comtrade Categorias (Final Products, Sub-assemblies e Components)  </a> 
+<font size="2">    
+   * Dados de 2014-2024. Valores em US$ Bilhão. </font>
+  
+* <a href="https://docs.google.com/spreadsheets/d/1x7t2y7aQ4HNmSDuTZN1qD9Yh4JYJ-RIj/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Comtrade Balança Comercial por Categorias  </a> 
+<font size="2">    
+   * Dados de 2014-2024. Valores em US$ Bilhão. </font> 
+  
+  
+ <!-- 
+* <a href=" " target="_blank"> NOME  </a> 
+<font size="2">    
+   * </font>
+  -->
+  
+  

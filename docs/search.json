@@ -32,13 +32,62 @@
     "href": "categorias.html",
     "title": "Produtos",
     "section": "",
-    "text": "Product category\n\n\nVC stage\n\n\nHS Product category\n\n\nHS code\n\n\nDescription\n\n\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nBalloons\n\n\n880100\n\n\nBalloons and dirigibles; gliders, hang gliders and other non-powered aircraft.\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nHelicopters\n\n\n880211\n\n\nHelicopters; of an unladen weight not exceeding 2000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nHelicopters\n\n\n880212\n\n\nHelicopters; of an unladen weight exceeding 2000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nAirplanes\n\n\n880220\n\n\nAeroplanes & other aircraft, of an unladen weight not &gt;2000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nAirplanes\n\n\n880230\n\n\nAeroplanes & other aircraft, of an unladen weight &gt;2000 kg but not &gt;15000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nAirplanes\n\n\n880240\n\n\nAeroplanes & other aircraft, of an unladen weight &gt;15000kg\n\n\n\n\nFinal products\n\n\nFinal products\n\n\nSpacecraft\n\n\n880260\n\n\nSpacecraft (incl. satellites) & suborbital & spacecraft launch vehicles\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nLanding gear\n\n\n880320\n\n\nUnder-carriages & parts thereof , of goods of 88.01/88.02\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nAircraft parts & assemblies (generic)\n\n\n880330\n\n\nParts of aeroplanes/helicopters, other than propellers, rotors, under-carriages & parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nPropellers & rotors\n\n\n880310\n\n\nPropellers & rotors & parts thereof , of goods of 88.01/88.02\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nOther parts\n\n\n880390\n\n\nParts of goods of 88.01/88.02, n.e.s. in 88.03\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n840890\n\n\nInternal combustion piston engines (diesel/semi-diesel engines) (excl. of 8408.10 & 8408.20)\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841111\n\n\nTurbo-jets, of a thrust not &gt;25kN\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841112\n\n\nTurbo-jets, of a thrust &gt;25 kN\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841121\n\n\nTurbo-propellers, of a power not &gt;1,100kW\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nMain engine (propulsion)\n\n\n841122\n\n\nTurbo-propellers, of a power &gt;1,100kW\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nOther engines (other on-board engines)\n\n\n840710\n\n\nSpark-ignition reciprocating/rotary internal combustion piston engines for aircraft\n\n\n\n\nPropulsion systems\n\n\nSub-assemblies\n\n\nOther engines (other on-board engines)\n\n\n841210\n\n\nReaction engines other than turbo-jets\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nLaunching gear\n\n\n880510\n\n\nAircraft launching gear & parts thereof ; deck-arrestor/similar gear & parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nGround trainers\n\n\n880521\n\n\nGround flying trainers and parts thereof; air combat simulators and parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nGround trainers\n\n\n880529\n\n\nGround flying trainers and parts thereof; other than air combat simulators and parts thereof\n\n\n\n\nOther components\n\n\nSub-assemblies\n\n\nInterior\n\n\n940110\n\n\nSeats; of a kind used for aircraft\n\n\n\n\nPropulsion systems\n\n\nComponents\n\n\nMain engine\n\n\n841191\n\n\nTurbines; parts of turbo-jets and turbo-propellers\n\n\n\n\nPropulsion systems\n\n\nComponents\n\n\nOther engines\n\n\n840910\n\n\nEngines; parts of aircraft engines (spark-ignition reciprocating or rotary internal combustion piston engines)\n\n\n\n\nOther components\n\n\nComponents\n\n\nLanding gear\n\n\n401130\n\n\nNew pneumatic tyres, of rubber, of a kind used on aircraft\n\n\n\n\nOther components\n\n\nComponents\n\n\nLanding gear\n\n\n401213\n\n\nRetreaded pneumatic tyres of rubber, of a kind used on aircraft\n\n\n\n\nOther components\n\n\nComponents\n\n\nElectronic instruments\n\n\n901420\n\n\nInstruments & appliances for aeronautical/space navigation (excl. compasses)"
+    "text": "Produtos do Setor Aeroespacial, segundo o Sistema Harmonizdo\n\n\n\n\n\n\n\nVC stage\nHS\nDescription\n\n\n\n\nFinal Products\n880100\nBalloons and dirigibles; gliders, hang gliders and other non-powered aircraft.\n\n\nFinal Products\n880212\nHelicopters; of an unladen weight exceeding 2000kg\n\n\nFinal Products\n880220\nAeroplanes and other aircraft; of an unladen weight not exceeding 2000kg\n\n\nFinal Products\n880230\nAeroplanes and other aircraft; of an unladen weight exceeding 2000kg but not exceeding 15,000kg\n\n\nFinal Products\n880240\nAeroplanes and other aircraft; of an unladen weight exceeding 15,000kg\n\n\nFinal Products\n880211\nHelicopters; of an unladen weight not exceeding 2000kg\n\n\nFinal Products\n880260\nSpacecraft; (including satellites) and suborbital and spacecraft launch vehicles\n\n\nFinal Products\n880211\nHelicopters, except unmanned; of an unladen weight not exceeding 2000kg\n\n\nFinal Products\n880212\nHelicopters, except unmanned; of an unladen weight exceeding 2000kg\n\n\nFinal Products\n880220\nAeroplanes and other aircraft, except unmanned; of an unladen weight not exceeding 2000kg\n\n\nFinal Products\n880230\nAeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg\n\n\nFinal Products\n880240\nAeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg\n\n\nSub-assemblies\n840710\nEngines; for aircraft, spark-ignition reciprocating or rotary internal combustion piston engines\n\n\nSub-assemblies\n840890\nEngines; compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for other than marine propulsion or the vehicles of chapter 87\n\n\nSub-assemblies\n840910\nEngines; parts of aircraft engines (spark-ignition reciprocating or rotary internal combustion piston engines)\n\n\nSub-assemblies\n841111\nTurbo-jets; of a thrust not exceeding 25kN\n\n\nSub-assemblies\n841121\nTurbo-propellers; of a power not exceeding 1100kW\n\n\nSub-assemblies\n841191\nTurbines; parts of turbo-jets and turbo-propellers\n\n\nSub-assemblies\n841210\nEngines; reaction engines, other than turbo-jets\n\n\nSub-assemblies\n841112\nTurbo-jets; of a thrust exceeding 25kN\n\n\nSub-assemblies\n841122\nTurbo-propellers; of a power exceeding 1100kW\n\n\nComponents\n401130\nRubber; new pneumatic tyres, of a kind used on aircraft\n\n\nComponents\n880310\nAircraft and spacecraft; propellers and rotors and parts thereof\n\n\nComponents\n880320\nAircraft and spacecraft; under-carriages and parts thereof\n\n\nComponents\n880330\nAircraft and spacecraft; parts of aeroplanes or helicopters n.e.c. in heading no. 8803\n\n\nComponents\n880390\nAircraft and spacecraft; parts thereof n.e.c. in chapter 88\n\n\nComponents\n880529\nGround flying trainers and parts thereof; other than air combat simulators and parts thereof\n\n\nComponents\n901420\nNavigational instruments and appliances; for aeronautical or space navigation (excluding compasses)\n\n\nComponents\n940110\nSeats; of a kind used for aircraft\n\n\nComponents\n880510\nAircraft launching gear, deck-arrestor or similar gear and parts thereof\n\n\nComponents\n401213\nRetreaded tyres; of a kind used on aircraft\n\n\nComponents\n880330\nAircraft and spacecraft; parts of aeroplanes or helicopters n.e.s. in heading no. 8803\n\n\nComponents\n880521\nGround flying trainers and parts thereof; air combat simulators and parts thereof"
   },
   {
     "objectID": "drive.html",
     "href": "drive.html",
     "title": "Google Drive",
     "section": "",
-    "text": "Links para o repositório"
+    "text": "Links para o repositório.\n\nPasta BID\n\nPasta Principal\n\n\n\nGeral\n\n Tabela de Produtos  \n\nProdutos do Setor Aeroespacial, segundo o Sistema Harmonizdo \n\n\n\n\nBrasil\n\nComtrade\n\nComtrade Brutos \n\nDados de 2014-2024. Acrescentou-se a variável VC stage.\n\nComtrade Invertidos \n\nDados de 2014-2024. Inverteu-se o direcionamento das transações, permutando partner por report e Export por Import - as exportações dos países elencados na rubrica All para o Brasil são, por correspondência, as importações deste, da mesma forma que as importações daqueles são, por analogia, as exportações do Brasil. \n\n Comtrade Categorias (Final Products, Sub-assemblies e Components)  \n\nDados de 2014-2024. Valores em US$ Bilhão. \n\n Comtrade Balança Comercial por Categorias  \n\nDados de 2014-2024. Valores em US$ Bilhão."
+  },
+  {
+    "objectID": "anotacoes.html",
+    "href": "anotacoes.html",
+    "title": "Anotações",
+    "section": "",
+    "text": "07 de Março\n\n\n06 de Março\nHabilitar chave do COMTRADE\n-Habilitar chave do COMTRADE -install.packages(“usethis”) -library(usethis) -edit_r_environ()\n\nRetirei os códigos “841181”,“841182”,“841199” referentes à subconjuntos e “880400” Paraquedas do componentes"
+  },
+  {
+    "objectID": "drive.html#brasil",
+    "href": "drive.html#brasil",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Comtrade Brutos \n\nDados de 2014-2024. Acrescentou-se a variável VC stage.\n\nComtrade Invertidos \n\nDados de 2014-2024. Inverteu-se o direcionamento das transações, permutando partner por report e Export por Import - as exportações dos países elencados na rubrica All para o Brasil são, por correspondência, as importações deste, da mesma forma que as importações daqueles são, por analogia, as exportações do Brasil."
+  },
+  {
+    "objectID": "drive.html#pasta-bid",
+    "href": "drive.html#pasta-bid",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Pasta Principal"
+  },
+  {
+    "objectID": "drive.html#pasta-principal",
+    "href": "drive.html#pasta-principal",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Pasta Principal"
+  },
+  {
+    "objectID": "drive.html#geral",
+    "href": "drive.html#geral",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Pasta Principal"
+  },
+  {
+    "objectID": "imagens.html",
+    "href": "imagens.html",
+    "title": "Imagens",
+    "section": "",
+    "text": "Brasil\nBalança Comercial do Brasil de Produtos Aeroespaciais.\n\n\n\n\n\nFonte: COMTRADE (2025)\n\n\n\n\n PDF   PNG"
+  },
+  {
+    "objectID": "drive.html#comtrade",
+    "href": "drive.html#comtrade",
+    "title": "Google Drive",
+    "section": "Comtrade",
+    "text": "Comtrade\n\nComtrade Brutos \n\nDados de 2014-2024. Acrescentou-se a variável VC stage.\n\nComtrade Invertidos \n\nDados de 2014-2024. Inverteu-se o direcionamento das transações, permutando partner por report e Export por Import - as exportações dos países elencados na rubrica All para o Brasil são, por correspondência, as importações deste, da mesma forma que as importações daqueles são, por analogia, as exportações do Brasil."
   }
 ]
