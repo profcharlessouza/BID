@@ -24,8 +24,7 @@ website:
 format:
   html: 
     theme: nome
-    toc: true
+    toc: true 
 lang: "pt"
-editor: source
-    
- 
+editor: source 
+  

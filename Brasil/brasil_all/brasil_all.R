@@ -5,6 +5,7 @@ setwd("C:/Users/Administrador/Documents/Pos/ITA/BID 2/BID2/Brasil/brasil_all")
 # Pacotes -----------------------------------------------------------------
 
 library(tidyverse)
+library(dplyr)
 library(comtradr)
 library(visNetwork)
 library(grid)
@@ -94,17 +95,23 @@ writexl::write_xlsx(group_brasil_all,  "group_brasil_all.xlsx"
 ## ----- VC stage por ano ----
 # saldo comercial
 
-balanco_brasil_all_a <- pivot_wider(group_brasil_all, names_from = "flow_desc", values_from = "primary_value") %>% 
+balanca_brasil_all_a <- pivot_wider(group_brasil_all, names_from = "flow_desc", values_from = "primary_value") %>% 
   mutate(`Balance` = Export-Import)
 
-balanco_brasil_all <- balanco_brasil_all_a %>% 
+balanca_brasil_all <- balanca_brasil_all_a %>% 
   pivot_longer(cols = c("Export", "Import", "Balance"), names_to = "flow_desc", values_to = "primary_value")
 
-write_rds(balanco_brasil_all, "balanco_brasil_all.rds")
+# salvando
+write_rds(balanca_brasil_all, "balanca_brasil_all.rds")
 
-balanco_brasil_all <- read_rds("balanco_brasil_all.rds")
+balanca_brasil_all <- read_rds("balanca_brasil_all.rds")
 
+# Transformar a tabela (pivot_wider)
+balanca_brasil_all_wide <- balanca_brasil_all %>%
+  pivot_wider(names_from = flow_desc, values_from = primary_value)
 
+writexl::write_xlsx(balanca_brasil_all_wide,  "comtrade_Brasil_balanca_2014_2024.xlsx"
+                    ,col_names = TRUE, format_headers = TRUE)
 # Imagens -----------------------------------------------------------------
 
 ##----- Cor das barras ----
@@ -114,7 +121,7 @@ cor <- c("#c3d4df","#5d8aa8", "#90afc3")
 
 ##----- Ordenar as colunas ----
 group_brasil_all$`VC stage` <- factor(group_brasil_all$`VC stage`,c('Final Products','Sub-assemblies','Components'))
-balanco_brasil_all$`VC stage` <- factor(balanco_brasil_all$`VC stage`,c('Final Products','Sub-assemblies','Components'))
+balanca_brasil_all$`VC stage` <- factor(balanca_brasil_all$`VC stage`,c('Final Products','Sub-assemblies','Components'))
 
 
 
@@ -126,7 +133,7 @@ ggplot(group_brasil_all, aes(period), ylim(-3:6)) +
            aes(y = primary_value, fill = `VC stage`), stat = "identity", position = "dodge") +
   geom_bar(data = subset(group_brasil_all, flow_desc == "Import"), 
            aes(y = -primary_value, fill = `VC stage`), stat = "identity", position = "dodge") + 
-  geom_point(data = subset(balanco_brasil_all, flow_desc == "Balance"),
+  geom_point(data = subset(balanca_brasil_all, flow_desc == "Balance"),
              aes(y = primary_value,col=`VC stage`), stat = "identity",size = 3.5,position = position_jitterdodge( jitter.width = 0,
                                                                                                                  jitter.height = 0,
                                                                                                                  dodge.width = .91,
