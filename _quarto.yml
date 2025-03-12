@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: docs
+  
+website: 
+  title: "BID"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+     # - projects.qmd
+      - categorias.qmd
+      - drive.qmd
+      - imagens.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/oicharles
+      - icon: github
+        href: https://github.com/profcharlessouza/BID
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2025, Charles Souza"
+
+format:
+  html: 
+    theme: nome
+    toc: true 
+lang: "pt"
+editor: source 
+    

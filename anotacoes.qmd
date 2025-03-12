@@ -1,0 +1,17 @@
+---
+title: "Anotações"
+---
+
+# 07 de Março
+
+# 06 de Março
+
+ **Habilitar chave do COMTRADE**
+
+-Habilitar chave do COMTRADE
+-install.packages("usethis")
+-library(usethis)
+-edit_r_environ()
+
+- Retirei os códigos "841181","841182","841199" referentes à subconjuntos e "880400" Paraquedas do componentes
+

@@ -1,0 +1,46 @@
+---
+title: "Produtos"
+tbl-colwidths: [20,10,10,80]
+---
+
+|HS Product category                    |VC stage       |HS     |Description                                                                                                                                                                     |
+|:--------------------------------------|:--------------|:------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Balloons                               |Final Products |880100 |Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft.                                                                                                  |
+|Helicopters                            |Final Products |880211 |Helicopters; of an unladen weight not exceeding 2000kg                                                                                                                          |
+|Helicopters                            |Final Products |880212 |Helicopters; of an unladen weight exceeding 2000kg                                                                                                                              |
+|Airplanes                              |Final Products |880220 |Aeroplanes and other aircraft; of an unladen weight not exceeding 2000kg                                                                                                        |
+|Airplanes                              |Final Products |880230 |Aeroplanes and other aircraft; of an unladen weight exceeding 2000kg but not exceeding 15,000kg                                                                                 |
+|Airplanes                              |Final Products |880240 |Aeroplanes and other aircraft; of an unladen weight exceeding 15,000kg                                                                                                          |
+|Spacecraft                             |Final Products |880260 |Spacecraft; (including satellites) and suborbital and spacecraft launch vehicles                                                                                                |
+|Helicopters                            |Final Products |880211 |Helicopters, except unmanned; of an unladen weight not exceeding 2000kg                                                                                                         |
+|Helicopters                            |Final Products |880212 |Helicopters, except unmanned; of an unladen weight exceeding 2000kg                                                                                                             |
+|Airplanes                              |Final Products |880220 |Aeroplanes and other aircraft, except unmanned; of an unladen weight not exceeding 2000kg                                                                                       |
+|Airplanes                              |Final Products |880230 |Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg                                                                |
+|Airplanes                              |Final Products |880240 |Aeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg                                                                                         |
+|Other engines (other on-board engines) |Sub-assemblies |840710 |Engines; for aircraft, spark-ignition reciprocating or rotary internal combustion piston engines                                                                                |
+|Other engines (other on-board engines) |Sub-assemblies |840890 |Engines; compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for other than marine propulsion or the vehicles of chapter 87 |
+|Other engines                          |Components     |840910 |Engines; parts of aircraft engines (spark-ignition reciprocating or rotary internal combustion piston engines)                                                                  |
+|Main Engine                            |Sub-assemblies |841111 |Turbo-jets; of a thrust not exceeding 25kN                                                                                                                                      |
+|Engines & Parts (Propulsion)           |Sub-assemblies |841112 |Turbo-jets; of a thrust exceeding 25kN                                                                                                                                          |
+|Engines & Parts (Propulsion)           |Sub-assemblies |841121 |Turbo-propellers; of a power not exceeding 1100kW                                                                                                                               |
+|Engines & Parts (Propulsion)           |Sub-assemblies |841122 |Turbo-propellers; of a power exceeding 1100kW                                                                                                                                   |
+|Main engine                            |Components     |841191 |Turbines; parts of turbo-jets and turbo-propellers                                                                                                                              |
+|Other engines (other on-board engines) |Sub-assemblies |841210 |Engines; reaction engines, other than turbo-jets                                                                                                                                |
+|Landing gear                           |Components     |401130 |Rubber; new pneumatic tyres, of a kind used on aircraft                                                                                                                         |
+|Landing gear                           |Components     |401213 |Retreaded tyres; of a kind used on aircraft                                                                                                                                     |
+|Propellers & rotors                    |Sub-assemblies |880310 |Aircraft and spacecraft; propellers and rotors and parts thereof                                                                                                                |
+|Landing gear                           |Sub-assemblies |880320 |Aircraft and spacecraft; under-carriages and parts thereof                                                                                                                      |
+|Aircraft parts & assemblies (generic)  |Sub-assemblies |880330 |Aircraft and spacecraft; parts of aeroplanes or helicopters n.e.c. in heading no. 8803                                                                                          |
+|Aircraft parts & assemblies (generic)  |Sub-assemblies |880330 |Aircraft and spacecraft; parts of aeroplanes or helicopters n.e.s. in heading no. 8803                                                                                          |
+|Other parts                            |Sub-assemblies |880390 |Aircraft and spacecraft; parts thereof n.e.c. in chapter 88                                                                                                                     |
+|Other parts                            |Sub-assemblies |880390 |Aircraft and spacecraft; parts thereof n.e.s. in chapter 88                                                                                                                     |
+|Launching gear                         |Sub-assemblies |880510 |Aircraft launching gear, deck-arrestor or similar gear and parts thereof                                                                                                        |
+|Ground trainers                        |Sub-assemblies |880521 |Ground flying trainers and parts thereof; air combat simulators and parts thereof                                                                                               |
+|Ground trainers                        |Sub-assemblies |880529 |Ground flying trainers and parts thereof; other than air combat simulators and parts thereof                                                                                    |
+|Electronic instruments                 |Components     |901420 |Navigational instruments and appliances; for aeronautical or space navigation (excluding compasses)                                                                             |
+|Interior                               |Sub-assemblies |940110 |Seats; of a kind used for aircraft                                                                                                                                              |
+
+: Produtos do Setor Aeroespacial, segundo o Sistema Harmonizdo {.striped .hover}
+
+
+

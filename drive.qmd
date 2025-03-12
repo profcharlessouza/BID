@@ -1,0 +1,58 @@
+---
+title: "Google Drive"
+---
+
+Links para o repositório.
+
+# Pasta BID
+
+* <a href="https://drive.google.com/drive/folders/1HuwP5g7SQifTCrrgfhSzAjyBsuhrMyo2?usp=sharing" target="_blank">Pasta Principal</a> 
+
+ <!-- 
+* <a href=" " target="_blank"> NOME  </a> 
+<font size="2">    
+   * </font>
+  -->
+
+# Geral 
+
+### Comtrade
+
+
+<!--Variáveis selecionadas --> 
+* <a href="https://docs.google.com/spreadsheets/d/1cpicrxwJmMMfvsDzQ1n_XnR54burBqVy/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Variáveis selecionadas *.xlsx*  </a> 
+* <a href="https://drive.google.com/file/d/1q0hwO4RivIZ31N56c5VAhbfUrc4TQvPr/view?usp=sharing" target="_blank"> Variáveis selecionadas *.csv*  </a> 
+ <font size="2">
+  * Conjunto geral de dados com as seguintes variáveis selecionadas: year, reporter, continent, partner, flow_desc, primary_value, cmd_code e cmd_desc.  Acrescentaram-se as variáveis *HS Product category* e *VC stage*. Atualizado em 11 de março de 2025. </font>
+
+<!--Variáveis selecionadas invertidas -->  
+* <a href="https://docs.google.com/spreadsheets/d/1AVQgkeW9lc6l7kLDvn8HsGsWvgGC5DnO/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Variáveis selecionadas invertidas *.xlsx*   </a> 
+* <a href="https://drive.google.com/file/d/1u6JsK9pzRFFBF0epZN5qvWcrVS99hlmN/view?usp=sharing" target="_blank"> Variáveis selecionadas  invertidas *.csv* </a> 
+ <font size="2">
+  * Conjunto geral de dados invertidos. O direcionamento das transações foi invertido, substituindo *partner* por *report* e *Export* por *Import* — as exportações dos países listados na rubrica *All* para o país *X* correspondem, por analogia, às importações desse país, assim como as importações desses países equivalem, por correspondência, às exportações do país *X*.  Atualizado em 11 de março de 2025. </font>  
+ 
+<!-- Dados Brutos -->  
+* <a href="https://docs.google.com/spreadsheets/d/1vSJQdnOZQSaVxDfElB6VijEvbHVZcFF8/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Dados Brutos  </a>  
+ <font size="2">
+  * Conjunto de dados brutos do Comtrade referentes a produtos selecionados (2010-2024). Atualizado em 11 de março de 2025.  </font> 
+  
+<!-- Tabela de Produtos -->  
+* <a href="https://docs.google.com/spreadsheets/d/10RizlAQk30KUD_zBbpyVKwO-rGgm1zVp/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Tabela de Produtos  </a>  
+ <font size="2">
+  * Produtos do Setor Aeroespacial, segundo o Sistema Harmonizdo </font>
+ 
+
+ 
+# Brasil
+
+### Comtrade
+
+
+  
+ <!-- 
+* <a href=" " target="_blank"> NOME  </a> 
+<font size="2">    
+   * </font>
+  -->
+  
+  

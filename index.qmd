@@ -1,0 +1,20 @@
+---
+title: ""
+#about:
+#  id: me
+#  template: broadside
+#  image: img/profile.png
+---
+
+<!--:::{#me}
+
+## Goals
+
+## Education
+
+## Experience
+
+:::
+-->
+
+Este relatório tem como objetivo apresentar informações e dados referentes à evolução do projeto sobre o setor aeroespacial. As principais fontes de dados são provenientes do repositório [**UN Comtrade**](https://comtradeplus.un.org/). Para a obtenção, o tratamento e a visualização das informações do setor, foi utilizado o software R, com destaque para o pacote [**Comtradr**](https://cran.r-project.org/web/packages/comtradr/vignettes/comtradr.html).
