@@ -1,0 +1,27 @@
+---
+title: "Reporter A"
+author: "Charles Souza"
+format: 
+  docx:
+    toc: true
+    reference_docx: "Report_A_Aerospace_industry.docx"  # Arquivo de modelo para formatação (opcional)
+execute: 
+  message: false
+  warning: false
+  echo: false
+fontsize: 11pt    # Tamanho da fonte
+mainfont: "Times New Roman" # Fonte principal
+geometry: margin=1in  # Margens do documento
+header-includes:
+  - \usepackage{amsmath}   # Pacote para equações matemáticas
+  - \usepackage{graphicx}  # Pacote para inclusão de gráficos
+  - \usepackage{caption}   # Para manipulação das legendas  
+  
+---
+
+## Characterization of the situation and recent dynamics of the aerospace value chain at the global level
+
+Measuring the aerospace market is not a trivial task. The issue is mainly associated with (i) the complexity of products, which often involve thousands of sub-parts produced in other economic sectors; (ii) the technological and product duality that permeates civil and military applications, and (iii) the importance of the industry for national sovereignty and the consequent control of sensitive information. When considering these elements, it emerges that national production statistics, usually presented in an aggregated form, do not provide the necessary accuracy. An additional issue is related to the full consideration of the stages of the value chain. Indeed, post-sales services (i.e. maintenance, repairs and overhaul – MRO and training and consumer support) may account for an important market share, but they are also difficult to measure. As an example, Aboulafia and Michaels (2018) estimates that 27% of the aerospace market in 2017 were related to civil and military MRO. Many consulting companies seek to make market measurement through quantitative and qualitative observations, based on reports from leading companies, industry association’ estimates and national data. However, these estimations can largely differ, and the different methodologies applied make it difficult to compare the evolution over long periods of time.\footnote{Some of these measurements will be presented in the production and market analysis in this very section.} Therefore, the monitoring of market evolution needs to follow a unique methodological basis allowing yearly comparison. With this objective, some studies use the evolution of the countries’ international trade structure (BAMBER; GEREFFI; FREDERICK; GUINN; et al., 2013; BAMBER; GEREFFI; FREDERICK, 2016; CALIARI et al., 2021; NIOSI; ZHEGU, 2005, 2010), as the use of UN Comtrade data allows for the selection of a list of products specifically related to the aerospace industry. A backdrop of this approach is that it disregards the production that is consumed within the country itself; however, the global integration of the aerospace value chains tends to mitigate this problem.\
+In this work, we will follow mainly this strategy but adding up additional insights on the evolution of the production of the aerospace industry in some relevant exporting countries, as well as market prospects from specialized consulting firms.
+
+![Balança comercial](img/trade_balance_Brasil.png)

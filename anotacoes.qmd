@@ -2,16 +2,40 @@
 title: "Anotações"
 ---
 
+
+git init
+
+git add .
+
+git commit -m "TEXTO"
+
+git push -u origin main
+
+# 14 de Março
+
+Atualizei o Drive
+
+# 11 de Março
+
+* Atualizei os dados.
+* Inverti as variáveis
+* Exclui a observação planadores
+  
+# 13 de Março
+
+* Quando separo USA de all_Mundo == 28832
+* Quando separo USA de Mundo_all == 48510
+
 # 07 de Março
+
+Inclui dados do Brasil e figura com a Balança comercial do Brasil.
 
 # 06 de Março
 
- **Habilitar chave do COMTRADE**
+**Habilitar chave do COMTRADE**
 
--Habilitar chave do COMTRADE
--install.packages("usethis")
--library(usethis)
--edit_r_environ()
+-Habilitar chave do COMTRADE\
+-install.packages("usethis")\
+-library(usethis) -edit_r_environ()
 
-- Retirei os códigos "841181","841182","841199" referentes à subconjuntos e "880400" Paraquedas do componentes
-
+-   Retirei os códigos "841181","841182","841199" referentes à subconjuntos e "880400" Paraquedas do componentes

@@ -1,8 +1,8 @@
 project:
   type: website
   output-dir: docs
-  
-website: 
+       
+website:           
   title: "BID"
   navbar:
     left:
@@ -24,7 +24,8 @@ website:
 format:
   html: 
     theme: nome
+    number-sections: true
     toc: true 
 lang: "pt"
 editor: source 
-    
+       
