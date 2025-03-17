@@ -3,7 +3,34 @@ title: "Imagens"
 lightbox: true
 ---
 
-# Brasil
+# Market Share
+
+## Produtos Finais
+
+::: {layout-ncol=2}
+![](img/MS_Final.png)
+
+![](img/MS_Final_Invertido.png)
+:::
+
+
+
+## Subconjuntos
+
+::: {layout-ncol=2}
+![](img/MS_Sub.png)
+
+![](img/MS_Sub_invertido.png)
+:::
+
+
+## Componentes
+
+::: {layout-ncol=2}
+![](img/MS_Comp.png)
+
+![](img/MS_Comp_invertidos.png)
+:::
 
 <!--
 Balança Comercial do Brasil de Produtos Aeroespaciais.
