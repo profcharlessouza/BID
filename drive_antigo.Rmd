@@ -1,0 +1,83 @@
+---
+title: "Google Drive"
+---
+
+Links para o repositório.
+
+# Pasta BID
+
+* <a href="https://drive.google.com/drive/folders/1HuwP5g7SQifTCrrgfhSzAjyBsuhrMyo2?usp=sharing" target="_blank">Pasta Principal</a> 
+
+ <!-- 
+* <a href=" " target="_blank"> NOME  </a> 
+<font size="2">    
+   * </font>
+  -->
+
+# Comtrade 
+
+
+## Padrão 
+### Comtrade Aerospace layout2
+<!-- Layout2 -->
+* <a href="https://docs.google.com/spreadsheets/d/1Uow6BZ98vsTBwlBUSMuSCC_4Lt9GP4ok/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Layout2 .xlsx  </a>
+* <a href="https://drive.google.com/file/d/18lB4iHC7YeWHWB0tPkGMQcrsRxCzzYtY/view?usp=sharing" target="_blank"> Layout2 .csv  </a> 
+<font size="2">    
+   * Conjunto de dados com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, *Import_total*, Export_Final Products, Export_Sub-assemblies, Export_Components e *Export_total*.  O direcionamento das transações  dos **Estados Unidos** foi **invertido**. Atualizado em 14 de março de 2025.   </font>
+
+### Variáveis Selecionadas
+<!--Variáveis selecionadas --> 
+* <a href="https://docs.google.com/spreadsheets/d/1HzUIO6WeNEy3rT0vGBBdTfiUP3qTelw_/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Variáveis selecionadas *.xlsx*  </a> 
+* <a href="https://drive.google.com/file/d/1AbCCYnnNsurmO24erkzHvKa3MAwzDNEt/view?usp=sharing" target="_blank"> Variáveis selecionadas *.csv*  </a> 
+ <font size="2">
+  * Conjunto geral de dados com as seguintes variáveis selecionadas: year, reporter, continent, partner, flow_desc, primary_value, cmd_code e cmd_desc.  Acrescentaram-se as variáveis *HS Product category* e *VC stage*. O direcionamento das transações  dos **Estados Unidos** foi **invertido**. Atualizado em 14 de março de 2025. </font>
+
+## Direcionamento das transações invertidos
+
+<font size="2">
+O direcionamento das transações foi invertido, substituindo *partner* por *report* e *Export* por *Import* — as exportações dos países listados na rubrica *All* para o país *X* correspondem, por analogia, às importações desse país, assim como as importações desses países equivalem, por correspondência, às exportações do país *X*. </font>
+
+### Comtrade Aerospace layout2 (invertido)
+
+
+<!-- Layout2 invertidas-->
+* <a href="https://docs.google.com/spreadsheets/d/1OE9jCTks1WbcAOtkyaqC1DgBR9x2D-8V/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Layout2  invertidas .xlsx  </a>
+* <a href="https://drive.google.com/file/d/1fFyl6EIWETFjJssi4dnKyHz5HUoUq5YD/view?usp=sharing" target="_blank"> Layout2 invertidas .csv  </a> 
+<font size="2">    
+   * Conjunto de dados invertidos com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, *Import_total*, Export_Final Products, Export_Sub-assemblies, Export_Components e *Export_total*. Atualizado em 14 de março de 2025.   </font>
+
+### Variáveis Selecionadas (invertido)
+
+<!--Variáveis selecionadas invertidas -->  
+* <a href="https://docs.google.com/spreadsheets/d/1S4aCKMIaG9SVeRpEVF_YkxjmSNKg14Xd/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Variáveis selecionadas invertidas *.xlsx*   </a> 
+* <a href="https://drive.google.com/file/d/1d1TCifWYgLlx601dxBJmlIfUWAs3GGrk/view?usp=sharing" target="_blank"> Variáveis selecionadas  invertidas *.csv* </a> 
+ <font size="2">
+  * Conjunto geral de dados invertidos.   Atualizado em 14 de março de 2025. </font>  
+ 
+## Dados Brutos
+  
+<!-- Dados Brutos -->  
+* <a href="https://docs.google.com/spreadsheets/d/1vSJQdnOZQSaVxDfElB6VijEvbHVZcFF8/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Dados Brutos  </a>  
+ <font size="2">
+  * Conjunto de dados brutos do Comtrade referentes a produtos selecionados (2010-2024). Atualizado em 11 de março de 2025.  </font> 
+  
+<!-- Tabela de Produtos -->  
+* <a href="https://docs.google.com/spreadsheets/d/10RizlAQk30KUD_zBbpyVKwO-rGgm1zVp/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Tabela de Produtos  </a>  
+ <font size="2">
+  * Produtos do Setor Aeroespacial, segundo o Sistema Harmonizdo </font>
+ 
+
+# Brasil
+
+
+
+
+
+  
+ <!-- 
+* <a href=" " target="_blank"> NOME  </a> 
+<font size="2">    
+   * </font>
+  -->
+  
+  

@@ -11,6 +11,12 @@ git commit -m "TEXTO"
 
 git push -u origin main
 
+# 20 de Março 
+
+Na reunião do dia 18 ficou decidido que só inverteriamos os EUA.
+
+A variável "840890", ## Motores de aeronaves de pistão, de ignição por compressão (motores diesel ou semidiesel), não consta na no trabalho anterior, nesse caso vou retirá-la. Bases atualizadas!
+
 # 14 de Março
 
 Atualizei o Drive

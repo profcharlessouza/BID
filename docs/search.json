@@ -7,39 +7,32 @@
     "text": "Este site tem como objetivo apresentar informações e dados referentes à evolução do projeto sobre o setor aeroespacial. As principais fontes de dados são provenientes do repositório UN Comtrade. Para a obtenção, o tratamento e a visualização das informações do setor, foi utilizado o software R, com destaque para o pacote Comtradr."
   },
   {
-    "objectID": "drive.html",
-    "href": "drive.html",
+    "objectID": "drive_antigo.html",
+    "href": "drive_antigo.html",
     "title": "Google Drive",
     "section": "",
     "text": "Links para o repositório."
   },
   {
-    "objectID": "drive.html#padrão",
-    "href": "drive.html#padrão",
+    "objectID": "drive_antigo.html#padrão",
+    "href": "drive_antigo.html#padrão",
     "title": "Google Drive",
     "section": "2.1 Padrão",
     "text": "2.1 Padrão\n\n2.1.1 Comtrade Aerospace layout2\n\n\n Layout2 .xlsx \n Layout2 .csv  \n\nConjunto de dados com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, Import_total, Export_Final Products, Export_Sub-assemblies, Export_Components e Export_total. O direcionamento das transações dos Estados Unidos foi invertido. Atualizado em 14 de março de 2025. \n\n\n\n\n2.1.2 Variáveis Selecionadas\n\n\n Variáveis selecionadas .xlsx \n Variáveis selecionadas .csv  \n\nConjunto geral de dados com as seguintes variáveis selecionadas: year, reporter, continent, partner, flow_desc, primary_value, cmd_code e cmd_desc. Acrescentaram-se as variáveis HS Product category e VC stage. O direcionamento das transações dos Estados Unidos foi invertido. Atualizado em 14 de março de 2025."
   },
   {
-    "objectID": "drive.html#direcionamento-das-transações-invertidos",
-    "href": "drive.html#direcionamento-das-transações-invertidos",
+    "objectID": "drive_antigo.html#direcionamento-das-transações-invertidos",
+    "href": "drive_antigo.html#direcionamento-das-transações-invertidos",
     "title": "Google Drive",
     "section": "2.2 Direcionamento das transações invertidos",
     "text": "2.2 Direcionamento das transações invertidos\n O direcionamento das transações foi invertido, substituindo partner por report e Export por Import — as exportações dos países listados na rubrica All para o país X correspondem, por analogia, às importações desse país, assim como as importações desses países equivalem, por correspondência, às exportações do país X. \n\n2.2.1 Comtrade Aerospace layout2 (invertido)\n\n\n Layout2 invertidas .xlsx \n Layout2 invertidas .csv  \n\nConjunto de dados invertidos com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, Import_total, Export_Final Products, Export_Sub-assemblies, Export_Components e Export_total. Atualizado em 14 de março de 2025. \n\n\n\n\n2.2.2 Variáveis Selecionadas (invertido)\n\n\n Variáveis selecionadas invertidas .xlsx \n Variáveis selecionadas invertidas .csv  \n\nConjunto geral de dados invertidos. Atualizado em 14 de março de 2025."
   },
   {
-    "objectID": "drive.html#dados-brutos",
-    "href": "drive.html#dados-brutos",
+    "objectID": "drive_antigo.html#dados-brutos",
+    "href": "drive_antigo.html#dados-brutos",
     "title": "Google Drive",
     "section": "2.3 Dados Brutos",
     "text": "2.3 Dados Brutos\n\n\n Dados Brutos \n\n\nConjunto de dados brutos do Comtrade referentes a produtos selecionados (2010-2024). Atualizado em 11 de março de 2025. \n\n\n\n\n Tabela de Produtos \n\n\nProdutos do Setor Aeroespacial, segundo o Sistema Harmonizdo"
-  },
-  {
-    "objectID": "anotacoes.html",
-    "href": "anotacoes.html",
-    "title": "Anotações",
-    "section": "",
-    "text": "git init\ngit add .\ngit commit -m “TEXTO”\ngit push -u origin main\n\n1 14 de Março\nAtualizei o Drive\n\n\n2 11 de Março\n\nAtualizei os dados.\nInverti as variáveis\nExclui a observação planadores\n\n\n\n3 13 de Março\n\nQuando separo USA de all_Mundo == 28832\nQuando separo USA de Mundo_all == 48510\n\n\n\n4 07 de Março\nInclui dados do Brasil e figura com a Balança comercial do Brasil.\n\n\n5 06 de Março\nHabilitar chave do COMTRADE\n-Habilitar chave do COMTRADE\n-install.packages(“usethis”)\n-library(usethis) -edit_r_environ()\n\nRetirei os códigos “841181”,“841182”,“841199” referentes à subconjuntos e “880400” Paraquedas do componentes"
   },
   {
     "objectID": "categorias.html",
@@ -47,5 +40,33 @@
     "title": "Produtos",
     "section": "",
     "text": "Produtos do Setor Aeroespacial, segundo o Sistema Harmonizdo\n\n\n\n\n\n\n\n\nHS Product category\nVC stage\nHS\nDescription\n\n\n\n\nBalloons\nFinal Products\n880100\nBalloons and dirigibles; gliders, hang gliders and other non-powered aircraft.\n\n\nHelicopters\nFinal Products\n880211\nHelicopters; of an unladen weight not exceeding 2000kg\n\n\nHelicopters\nFinal Products\n880212\nHelicopters; of an unladen weight exceeding 2000kg\n\n\nAirplanes\nFinal Products\n880220\nAeroplanes and other aircraft; of an unladen weight not exceeding 2000kg\n\n\nAirplanes\nFinal Products\n880230\nAeroplanes and other aircraft; of an unladen weight exceeding 2000kg but not exceeding 15,000kg\n\n\nAirplanes\nFinal Products\n880240\nAeroplanes and other aircraft; of an unladen weight exceeding 15,000kg\n\n\nSpacecraft\nFinal Products\n880260\nSpacecraft; (including satellites) and suborbital and spacecraft launch vehicles\n\n\nHelicopters\nFinal Products\n880211\nHelicopters, except unmanned; of an unladen weight not exceeding 2000kg\n\n\nHelicopters\nFinal Products\n880212\nHelicopters, except unmanned; of an unladen weight exceeding 2000kg\n\n\nAirplanes\nFinal Products\n880220\nAeroplanes and other aircraft, except unmanned; of an unladen weight not exceeding 2000kg\n\n\nAirplanes\nFinal Products\n880230\nAeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 2000kg but not exceeding 15,000kg\n\n\nAirplanes\nFinal Products\n880240\nAeroplanes and other aircraft, except unmanned; of an unladen weight exceeding 15,000kg\n\n\nOther engines (other on-board engines)\nSub-assemblies\n840710\nEngines; for aircraft, spark-ignition reciprocating or rotary internal combustion piston engines\n\n\nOther engines (other on-board engines)\nSub-assemblies\n840890\nEngines; compression-ignition internal combustion piston engines (diesel or semi-diesel engines), of a kind used for other than marine propulsion or the vehicles of chapter 87\n\n\nOther engines\nComponents\n840910\nEngines; parts of aircraft engines (spark-ignition reciprocating or rotary internal combustion piston engines)\n\n\nMain Engine\nSub-assemblies\n841111\nTurbo-jets; of a thrust not exceeding 25kN\n\n\nEngines & Parts (Propulsion)\nSub-assemblies\n841112\nTurbo-jets; of a thrust exceeding 25kN\n\n\nEngines & Parts (Propulsion)\nSub-assemblies\n841121\nTurbo-propellers; of a power not exceeding 1100kW\n\n\nEngines & Parts (Propulsion)\nSub-assemblies\n841122\nTurbo-propellers; of a power exceeding 1100kW\n\n\nMain engine\nComponents\n841191\nTurbines; parts of turbo-jets and turbo-propellers\n\n\nOther engines (other on-board engines)\nSub-assemblies\n841210\nEngines; reaction engines, other than turbo-jets\n\n\nLanding gear\nComponents\n401130\nRubber; new pneumatic tyres, of a kind used on aircraft\n\n\nLanding gear\nComponents\n401213\nRetreaded tyres; of a kind used on aircraft\n\n\nPropellers & rotors\nSub-assemblies\n880310\nAircraft and spacecraft; propellers and rotors and parts thereof\n\n\nLanding gear\nSub-assemblies\n880320\nAircraft and spacecraft; under-carriages and parts thereof\n\n\nAircraft parts & assemblies (generic)\nSub-assemblies\n880330\nAircraft and spacecraft; parts of aeroplanes or helicopters n.e.c. in heading no. 8803\n\n\nAircraft parts & assemblies (generic)\nSub-assemblies\n880330\nAircraft and spacecraft; parts of aeroplanes or helicopters n.e.s. in heading no. 8803\n\n\nOther parts\nSub-assemblies\n880390\nAircraft and spacecraft; parts thereof n.e.c. in chapter 88\n\n\nOther parts\nSub-assemblies\n880390\nAircraft and spacecraft; parts thereof n.e.s. in chapter 88\n\n\nLaunching gear\nSub-assemblies\n880510\nAircraft launching gear, deck-arrestor or similar gear and parts thereof\n\n\nGround trainers\nSub-assemblies\n880521\nGround flying trainers and parts thereof; air combat simulators and parts thereof\n\n\nGround trainers\nSub-assemblies\n880529\nGround flying trainers and parts thereof; other than air combat simulators and parts thereof\n\n\nElectronic instruments\nComponents\n901420\nNavigational instruments and appliances; for aeronautical or space navigation (excluding compasses)\n\n\nInterior\nSub-assemblies\n940110\nSeats; of a kind used for aircraft"
+  },
+  {
+    "objectID": "anotacoes.html",
+    "href": "anotacoes.html",
+    "title": "Anotações",
+    "section": "",
+    "text": "git init\ngit add .\ngit commit -m “TEXTO”\ngit push -u origin main\n\n1 20 de Março\nNa reunião do dia 18 ficou decidido que só inverteriamos os EUA.\nA variável “840890”, ## Motores de aeronaves de pistão, de ignição por compressão (motores diesel ou semidiesel), não consta na no trabalho anterior, nesse caso vou retirá-la. Bases atualizadas!\n\n\n2 14 de Março\nAtualizei o Drive\n\n\n3 11 de Março\n\nAtualizei os dados.\nInverti as variáveis\nExclui a observação planadores\n\n\n\n4 13 de Março\n\nQuando separo USA de all_Mundo == 28832\nQuando separo USA de Mundo_all == 48510\n\n\n\n5 07 de Março\nInclui dados do Brasil e figura com a Balança comercial do Brasil.\n\n\n6 06 de Março\nHabilitar chave do COMTRADE\n-Habilitar chave do COMTRADE\n-install.packages(“usethis”)\n-library(usethis) -edit_r_environ()\n\nRetirei os códigos “841181”,“841182”,“841199” referentes à subconjuntos e “880400” Paraquedas do componentes"
+  },
+  {
+    "objectID": "drive.html",
+    "href": "drive.html",
+    "title": "Google Drive",
+    "section": "",
+    "text": "Links para o repositório."
+  },
+  {
+    "objectID": "drive.html#comtrade-aerospace-layout2",
+    "href": "drive.html#comtrade-aerospace-layout2",
+    "title": "Google Drive",
+    "section": "2.1 Comtrade Aerospace layout2",
+    "text": "2.1 Comtrade Aerospace layout2\n\n\n Layout2 .xlsx \n Layout2 .csv  \n\nConjunto de dados com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, Import_total, Export_Final Products, Export_Sub-assemblies, Export_Components e Export_total.\nO direcionamento das transações dos Estados Unidos foi invertido, com a substituição de partner por report e de export por import. Nesse contexto, as exportações do país X para os Estados Unidos correspondem, por analogia, às importações desse país, assim como as importações do país X equivalem, por correspondência, às exportações dos Estados Unidos. Atualizado em 20 de março de 2025."
+  },
+  {
+    "objectID": "drive.html#dados-brutos",
+    "href": "drive.html#dados-brutos",
+    "title": "Google Drive",
+    "section": "2.2 Dados Brutos",
+    "text": "2.2 Dados Brutos\n\n\n Dados Brutos \n\n\nConjunto de dados brutos do Comtrade referentes a produtos selecionados (2010-2024). Atualizado em 20 de março de 2025."
   }
 ]
