@@ -16,6 +16,16 @@ Links para o repositório.
 
 # Comtrade 
  
+## Comtrade Aerospace layout2 2010-2023
+ 
+* <a href="https://docs.google.com/spreadsheets/d/1yTzMA46xvZDHdh7PukTApXdeDfCQUTNo/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> Comtrade_Aerospace_layout2_2010_2023.xlsx  </a> 
+<font size="2">   
+   * Base de dados principal até 2023.  Atualizado em 24 de março de 2025. </font>
+ 
+
+* <a href="https://docs.google.com/spreadsheets/d/1aydi5vuAgmF0MlOvfmqfVIcsrCh1kPTd/edit?usp=sharing&ouid=115921025860185030171&rtpof=true&sd=true" target="_blank"> continents_and_global.xlsx  </a> 
+<font size="2">    
+   * Base de dados por continentes.  Atualizado em 24 de março de 2025. </font>
 
 
 ## Comtrade Aerospace layout2

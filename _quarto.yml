@@ -3,8 +3,8 @@ project:
   output-dir: docs
        
 website:          
-  title: "BID"
-  navbar:
+  title: "BID" 
+  navbar: 
     left:
       - href: index.qmd
         text: Home

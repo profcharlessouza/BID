@@ -56,17 +56,24 @@
     "text": "Links para o repositório."
   },
   {
+    "objectID": "drive.html#comtrade-aerospace-layout2-2010-2023",
+    "href": "drive.html#comtrade-aerospace-layout2-2010-2023",
+    "title": "Google Drive",
+    "section": "2.1 Comtrade Aerospace layout2 2010-2023",
+    "text": "2.1 Comtrade Aerospace layout2 2010-2023\n\n Comtrade_Aerospace_layout2_2010_2023.xlsx  \n\nBase de dados principal até 2023. Atualizado em 24 de março de 2025. \n\n continents_and_global.xlsx  \n\nBase de dados por continentes. Atualizado em 24 de março de 2025."
+  },
+  {
     "objectID": "drive.html#comtrade-aerospace-layout2",
     "href": "drive.html#comtrade-aerospace-layout2",
     "title": "Google Drive",
-    "section": "2.1 Comtrade Aerospace layout2",
-    "text": "2.1 Comtrade Aerospace layout2\n\n\n Layout2 .xlsx \n Layout2 .csv  \n\nConjunto de dados com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, Import_total, Export_Final Products, Export_Sub-assemblies, Export_Components e Export_total.\nO direcionamento das transações dos Estados Unidos foi invertido, com a substituição de partner por report e de export por import. Nesse contexto, as exportações do país X para os Estados Unidos correspondem, por analogia, às importações desse país, assim como as importações do país X equivalem, por correspondência, às exportações dos Estados Unidos. Atualizado em 20 de março de 2025."
+    "section": "2.2 Comtrade Aerospace layout2",
+    "text": "2.2 Comtrade Aerospace layout2\n\n\n Layout2 .xlsx \n Layout2 .csv  \n\nConjunto de dados com as seguintes variáveis: year, reporter, Continent, Import_Final Products, Import_Sub-assemblies, Import_Components, Import_total, Export_Final Products, Export_Sub-assemblies, Export_Components e Export_total.\nO direcionamento das transações dos Estados Unidos foi invertido, com a substituição de partner por report e de export por import. Nesse contexto, as exportações do país X para os Estados Unidos correspondem, por analogia, às importações desse país, assim como as importações do país X equivalem, por correspondência, às exportações dos Estados Unidos. Atualizado em 20 de março de 2025."
   },
   {
     "objectID": "drive.html#dados-brutos",
     "href": "drive.html#dados-brutos",
     "title": "Google Drive",
-    "section": "2.2 Dados Brutos",
-    "text": "2.2 Dados Brutos\n\n\n Dados Brutos \n\n\nConjunto de dados brutos do Comtrade referentes a produtos selecionados (2010-2024). Atualizado em 20 de março de 2025."
+    "section": "2.3 Dados Brutos",
+    "text": "2.3 Dados Brutos\n\n\n Dados Brutos \n\n\nConjunto de dados brutos do Comtrade referentes a produtos selecionados (2010-2024). Atualizado em 20 de março de 2025."
   }
 ]
